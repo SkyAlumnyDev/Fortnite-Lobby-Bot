@@ -1,7 +1,7 @@
 
     
 
-**| [Download](https://github.com/SkyAlumnyDev/Fortnite-Lobby-Bot/releases/tag/1.0.0.0) | [Tutorial](https://github.com/SkyAlumnyDev/Fortnite-Lobby-Bot/blob/master/Tutorial.md) |***
+**| [Download](https://github.com/SkyAlumnyDev/Fortnite-Lobby-Bot/releases/tag/1.0.0.0) | [Tutorial](https://github.com/SkyAlumnyDev/Fortnite-Lobby-Bot/blob/master/Tutorial.md) |**
 
 
 </div>
